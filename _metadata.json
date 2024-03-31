@@ -1,0 +1,46 @@
+{
+  "hash": "ac48a54e",
+  "configHash": "05f1c82d",
+  "lockfileHash": "924c80f5",
+  "browserHash": "3b2a929b",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "3ab0c168",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "4a61f7a0",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "8f77be24",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "86d7c29b",
+      "needsInterop": true
+    },
+    "react-scroll": {
+      "src": "../../react-scroll/modules/index.js",
+      "file": "react-scroll.js",
+      "fileHash": "815c3074",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-RBVJHHQJ": {
+      "file": "chunk-RBVJHHQJ.js"
+    },
+    "chunk-4YP5LC2O": {
+      "file": "chunk-4YP5LC2O.js"
+    }
+  }
+}
